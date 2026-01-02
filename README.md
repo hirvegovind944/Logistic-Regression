@@ -75,7 +75,7 @@ Encoding categorical variables
 
 Feature scaling
 
-Exploratory Data Analysis (EDA)
+# Exploratory Data Analysis (EDA)
 
 Data distribution
 
@@ -111,76 +111,6 @@ Accuracy	85%
 Precision	83%
 Recall	86%
 F1-Score	84%
-
-
-🧠 Logistic Regression Formula
-𝑃
-(
-𝑦
-=
-1
-)
-=
-1
-1
-+
-𝑒
-−
-(
-𝛽
-0
-+
-𝛽
-1
-𝑥
-1
-+
-𝛽
-2
-𝑥
-2
-+
-.
-.
-.
-+
-𝛽
-𝑛
-𝑥
-𝑛
-)
-P(y=1)=
-1+e
-−(β
-0
-	​
-
-+β
-1
-	​
-
-x
-1
-	​
-
-+β
-2
-	​
-
-x
-2
-	​
-
-+...+β
-n
-	​
-
-x
-n
-	​
-
-)
-1
 
 
 # 🔮 Future Improvements
